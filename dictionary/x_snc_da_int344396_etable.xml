@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="cmdb_ci" label="ETable" max_length="40" name="x_snc_da_int344396_etable" type="collection">
+        <element display="true" label="T1" max_length="40" name="t1" type="string"/>
+    </element>
+</database>
